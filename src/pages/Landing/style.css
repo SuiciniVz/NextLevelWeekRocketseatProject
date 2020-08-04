@@ -56,7 +56,7 @@
 
 .button-container a img {
   width: 4rem;
-  margin-right: 2rem;
+  margin-right: 1rem;
 }
 
 .button-container a.study {
@@ -123,6 +123,10 @@
     grid-area: button;
     justify-content: flex-start;
   }
+  .button-container a img{
+    margin-right: 2rem;
+  }
+  
 
   .total-connections {
     grid-area: total;
