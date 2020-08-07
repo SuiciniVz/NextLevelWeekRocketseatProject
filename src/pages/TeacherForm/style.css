@@ -57,7 +57,7 @@
 }
 
 #page-teacher-form main fieldset legend button:hover{
-  background: var(--color-primary-dark)
+  color: var(--color-primary-dark)
 }
 
 
