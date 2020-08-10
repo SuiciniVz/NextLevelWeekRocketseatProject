@@ -27,7 +27,7 @@ Main technologies used in the project
 * React    
 * Expo
 * HTML CSS
-* SQlite3
+* SQLite3
 
 ---
 
