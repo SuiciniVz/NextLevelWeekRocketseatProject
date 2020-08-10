@@ -1,4 +1,7 @@
-# Proffy
+
+<p align="center">
+   <img src="./.github/logo.png" alt="Proffy" width="280"/>
+</p>
 
 ## Table of Contents
 
