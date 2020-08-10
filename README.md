@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-#### project developed to connect teachers and students
+#### Project developed to connect teachers and students
 
 <img src="./gitImg/LandingPage.png" width="800px">
 <img src="./gitImg/Study.gif" width="800px">
@@ -27,9 +27,7 @@ Main technologies used in the project
 * Typescript  
 * Express
 * React    
-* Expo
 * HTML CSS
-* SQLite3
 
 ---
 
