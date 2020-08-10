@@ -1,7 +1,4 @@
-
-<p align="center">
-   <img src="./.github/logo.png" alt="Proffy" width="280"/>
-</p>
+# Proffy
 
 ## Table of Contents
 
@@ -10,26 +7,29 @@
 * [Getting Started](#getting-started)
 * [Meta](#meta)
 
-
+---
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="./gitImg/LandingPage.png" width="800px">
+<img src="./gitImg/Study.gif" width="800px">
+<img src="./gitImg/GiveClasses.gif" width="800px"> 
 
-
+---
 
 ## :computer: Built With
 
-technologies used in the project
+Main technologies used in the project
 
-* [Typescript](https://www.typescriptlang.org/)      
-* [React](https://reactjs.org/)      
-* [Expo](https://expo.io/)       
-* [Express](https://expressjs.com/)   
+* Typescript  
+* Express
+* React    
+* Expo
+* HTML CSS
+* SQlite3
 
-
-![](header.png)
+---
 
 <!-- GETTING STARTED -->
 # Getting Started
@@ -46,13 +46,15 @@ $ yarn start
 ```
 :eyes: Go to http://localhost:3000/ to see the result.
 
+---
+
 ## Meta
 
 Lucas Santos – [![Linkedin Badge](https://img.shields.io/badge/-LucasSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lucas-santos-4519aa1b0/)](https://www.linkedin.com/in/lucas-santos-4519aa1b0/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lucasparaipaba113@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasparaipaba113@gmail.com)](mailto:lucasparaipaba113@gmail.com)
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+This project is under the [MIT license](./LICENSE).
 
 [https://github.com/SuiciniVz/github-link](https://github.com/SuiciniVz)
 
